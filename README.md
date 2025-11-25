@@ -23,9 +23,8 @@ I enjoy crafting clean code, building interactive experiences, and designing vis
 ---
 
 ##  Connect with Me
-- LinkedIn: @abhaydutta
-- Twitter (X): @AbhayDuttaa  
-
+- LinkedIn: [@abhaydutta](https://www.linkedin.com/in/abhaydutta/)
+ 
 ---
 
 Always learning. Always building. Always evolving. 
