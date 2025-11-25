@@ -15,7 +15,7 @@ I enjoy crafting clean code, building interactive experiences, and designing vis
 ---
 
 ## 🛠 Technologies & Tools I Work With
-- **Programming:** Java, C, Python, JavaScript  
+- **Programming:** Java, C, JavaScript  
 - **Web / Front-end:** HTML5, CSS3, React, Next.js, Django  
 - **Databases:** MySQL, MongoDB  
 - **Tools & Design:** Git, GitHub, Linux, Figma, Photoshop, Illustrator, VS Code  
