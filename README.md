@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Abhay Dutta
 
-<!--
-**AbhayDutta/AbhayDutta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a creative Web Developer passionate about building **immersive 3D experiences** on the web.  
+With strong skills in **JavaScript, WebGL, Three.js, and React**, I love pushing the boundaries of what’s possible inside the browser.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### ⭐ Modern Landing Page (Next.js)
+A sleek and modern animated landing page with smooth transitions and responsive UI.  
+🔗 Live Demo: [](https://abhaydutta.github.io/Next-Net-Modern-Landing-Page/) 
+
+### 🕶️ RayBan Landing Page
+An interactive **infinite-scroll image grid** with stylish animations using React + GSAP.  
+🔗 Live Demo: [https://YOUR-LINK-HERE](https://abhaydutta.github.io/Modern-Landing-Page/)  
+
+---
+
+## 🧠 Technologies I Work With
+
+| Web | 3D / Graphics | Frameworks |
+|-----|--------------|------------|
+| JavaScript / TypeScript | Three.js / WebGL / GLSL | React / Next.js |
+| HTML5 / CSS3 | React Three Fiber / Drei | GSAP / Framer Motion |
+
+---
+
+## 📬 Let’s Connect
+
+- 🐦 Twitter: **@AbhayDuttaa**
+- 🔗 LinkedIn: **@abhaydutta**
+
+---
+
+✨ *Always experimenting. Always learning. Always building.* ✨
