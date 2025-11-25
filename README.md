@@ -23,8 +23,8 @@ I enjoy crafting clean code, building interactive experiences, and designing vis
 ---
 
 ##  Connect with Me
-- LinkedIn: https://www.linkedin.com/in/abhaydutta/
-- Twitter (X): https://x.com/AbhayDuttaa  
+- LinkedIn: @abhaydutta
+- Twitter (X): @AbhayDuttaa  
 
 ---
 
