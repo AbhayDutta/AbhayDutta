@@ -1,1 +1,1 @@
-Builder @ 20, Crafting Pixels and Code.
+Builder @ 20.  Crafting Pixels and Code.
